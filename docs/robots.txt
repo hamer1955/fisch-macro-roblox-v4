@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richardmo-lab301.github.io/fisch-macro-roblox-v4/sitemap.xml
